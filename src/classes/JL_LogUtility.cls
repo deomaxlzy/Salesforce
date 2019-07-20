@@ -2,7 +2,7 @@
  * Created by JohnnyLou on 2019/7/20.
  */
 
-public without sharing class JL_Utility {
+public without sharing class JL_LogUtility {
     public static String getObjectType(Object obj) {
         if (obj == null) return '';
 

@@ -5,5 +5,6 @@
 public enum JL_LogLevel {
     Error,
     Warning,
-    Information
+    Information,
+    Debug
 }
